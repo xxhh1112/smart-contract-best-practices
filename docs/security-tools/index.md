@@ -8,3 +8,6 @@ code quality to reduce the likelihood and impact of vulnerabilities.
 | [Classification](./classification.md)                           | Resources attempting to classify vulnerabilities and weaknesses in smart contracts.                 |
 | [Testing](./testing.md)                                         | Tools for running, measuring, and managing smart contract related tests                             |
 | [Linters and Formatters](./linters-and-formatters.md)           | Any tools that highlight code smells and make smart contract code adhere to format standards.       |
+
+
+<br/>[<img alt="Diligence Security Tooling Guide" src="https://user-images.githubusercontent.com/13966291/201916110-79731745-7229-4b06-901c-332836ccc7ee.png">](https://consensys.net/diligence/resources/security-tooling-guide/)<br/>
