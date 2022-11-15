@@ -10,4 +10,4 @@ code quality to reduce the likelihood and impact of vulnerabilities.
 | [Linters and Formatters](./linters-and-formatters.md)           | Any tools that highlight code smells and make smart contract code adhere to format standards.       |
 
 
-<br/>[<img alt="Diligence Security Tooling Guide" src="https://user-images.githubusercontent.com/13966291/201916110-79731745-7229-4b06-901c-332836ccc7ee.png">](https://consensys.net/diligence/resources/security-tooling-guide/)<br/>
+<br/>[<img alt="Diligence Security Tooling Guide" src="https://user-images.githubusercontent.com/13966291/201916110-79731745-7229-4b06-901c-332836ccc7ee.png">](https://consensys.net/diligence/resources/security-tooling-guide?utm_source=github&utm_medium=devcommunity&utm_campaign=2022_Nov_diligence-security-tooling-guide_content_content)<br/>
